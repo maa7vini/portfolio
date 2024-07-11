@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.7855468a.css",
+    "main.js": "/portfolio/static/js/main.fa229855.js",
+    "static/media/Premier_Fibra.png": "/portfolio/static/media/Premier_Fibra.a90779956c795bfb8079.png",
+    "static/media/Alumitemper.png": "/portfolio/static/media/Alumitemper.fb3400ae008da1521016.png",
+    "static/media/Bruno_Orefice.png": "/portfolio/static/media/Bruno_Orefice.fa126dd15f416b3f4511.png",
+    "static/media/Ls_Digital.png": "/portfolio/static/media/Ls_Digital.78fdbcb02df63fa2c706.png",
+    "static/media/Edson_Noivas.png": "/portfolio/static/media/Edson_Noivas.31c461a3c0727eeca78e.png",
+    "static/media/Micale.png": "/portfolio/static/media/Micale.ba509bb9c1339baa3fea.png",
+    "static/media/Sublime_Yoga.png": "/portfolio/static/media/Sublime_Yoga.3043f62d2df5a02552a9.png",
+    "static/media/Bill_Nova_Odessa.png": "/portfolio/static/media/Bill_Nova_Odessa.51ccf786176206e1711b.png",
+    "static/media/Stefania_Allodi.png": "/portfolio/static/media/Stefania_Allodi.af1f7401d9ec74d93994.png",
+    "static/media/Intro.png": "/portfolio/static/media/Intro.91c71adb8fb9e59dd664.png",
+    "static/media/Group 5.png": "/portfolio/static/media/Group 5.2ed78387d83c34241896.png",
+    "static/media/Contact.png": "/portfolio/static/media/Contact.b1f6282323c8dd7ef9a2.png",
+    "static/media/React.svg": "/portfolio/static/media/React.af015bd353c1f8df599c8951db448755.svg",
+    "static/media/GithubLogo.svg": "/portfolio/static/media/GithubLogo.214d62f6178fc68f23ac7a2e0167cbd2.svg",
+    "static/media/GitHub.svg": "/portfolio/static/media/GitHub.b433775fe334a39f7ead4e55faa54894.svg",
+    "static/media/LinkedinLogo.svg": "/portfolio/static/media/LinkedinLogo.42216060943a58c7538696d7f34a65dd.svg",
+    "static/media/Node.js.svg": "/portfolio/static/media/Node.js.256c3fe2ba3a2649f3b166d033a95c4a.svg",
+    "static/media/Devices.svg": "/portfolio/static/media/Devices.edaab37a4fa2d05783ac3e979f306d01.svg",
+    "static/media/HardDrives.svg": "/portfolio/static/media/HardDrives.7a5e136697aceab6c43120f76a985250.svg",
+    "static/media/JavaScript.svg": "/portfolio/static/media/JavaScript.5fd985fcea6c0fcbbc58d3a3d80dd2f2.svg",
+    "static/media/ArrowUpRight.svg": "/portfolio/static/media/ArrowUpRight.cbf9bd396de64c15213e2223bc0cbbab.svg",
+    "index.html": "/portfolio/index.html",
+    "static/media/CSS.svg": "/portfolio/static/media/CSS.0b22c47c86eab174ef22e81062da93d1.svg",
+    "static/media/HTML.svg": "/portfolio/static/media/HTML.f71ef1e7aa598210c19f07f422de5710.svg",
+    "main.7855468a.css.map": "/portfolio/static/css/main.7855468a.css.map",
+    "main.fa229855.js.map": "/portfolio/static/js/main.fa229855.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7855468a.css",
+    "static/js/main.fa229855.js"
+  ]
+}
