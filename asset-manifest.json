@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.9af09de1.css",
+    "main.css": "/portfolio/static/css/main.a3fb8378.css",
     "main.js": "/portfolio/static/js/main.fa229855.js",
     "static/media/Premier_Fibra.png": "/portfolio/static/media/Premier_Fibra.a90779956c795bfb8079.png",
     "static/media/Alumitemper.png": "/portfolio/static/media/Alumitemper.fb3400ae008da1521016.png",
@@ -26,11 +26,11 @@
     "index.html": "/portfolio/index.html",
     "static/media/CSS.svg": "/portfolio/static/media/CSS.0b22c47c86eab174ef22e81062da93d1.svg",
     "static/media/HTML.svg": "/portfolio/static/media/HTML.f71ef1e7aa598210c19f07f422de5710.svg",
-    "main.9af09de1.css.map": "/portfolio/static/css/main.9af09de1.css.map",
+    "main.a3fb8378.css.map": "/portfolio/static/css/main.a3fb8378.css.map",
     "main.fa229855.js.map": "/portfolio/static/js/main.fa229855.js.map"
   },
   "entrypoints": [
-    "static/css/main.9af09de1.css",
+    "static/css/main.a3fb8378.css",
     "static/js/main.fa229855.js"
   ]
 }
