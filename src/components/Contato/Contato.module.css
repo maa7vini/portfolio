@@ -21,12 +21,14 @@
     margin-top: 20px;
     font-weight: 800;
     font-size: 2rem;
+    text-align: center;
 }
 
 .container span {
     color: #878ea1;
     margin-top: 10px;
     font-weight: 600;
+    text-align: center;
 }
 
 .links_container {
