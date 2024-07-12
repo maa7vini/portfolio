@@ -66,12 +66,6 @@
     .container {
         height: 100%;
     }
-
-    .container h2 {
-        color: #e2e4e9;
-        margin-top: 20px;
-        font-weight: 800;
-    }
 }
 
 @media(max-width: 767px) {

@@ -24,7 +24,7 @@ function Header(){
             </h1>
 
             <p className={styles.paragrafo}>
-                Transformo necessidades em aplicações reais, evolventes e funcionais. Desenvolvo sistemas 
+                Transformo necessidades em aplicações reais, envolventes e funcionais. Desenvolvo sistemas 
                 através da <br></br> minha paixão pela tecnologia, contribuindo com soluções inovadoras e eficazes 
                 para desafios complexos.
             </p>
