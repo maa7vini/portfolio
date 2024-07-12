@@ -13,6 +13,13 @@
     font-weight: 400;
 }
 
+.container h1 {
+    color: #e2e4e9;
+    margin-top: 20px;
+    font-weight: 800;
+    text-align: center;
+}
+
 .container h2 {
     color: #e2e4e9;
     margin-top: 20px;
@@ -58,6 +65,12 @@
 @media(max-width: 1024px) {
     .container {
         height: 100%;
+    }
+
+    .container h2 {
+        color: #e2e4e9;
+        margin-top: 20px;
+        font-weight: 800;
     }
 }
 

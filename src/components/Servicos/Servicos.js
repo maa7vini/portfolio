@@ -8,7 +8,7 @@ function Servicos(){
         <section className={styles.container}>
             <h3>Meus Serviços</h3>
 
-            <h2>Como posso ajudar o seu negócio</h2>
+            <h1>Como posso ajudar o seu negócio</h1>
 
             <div className={styles.servicos_container}>
 
