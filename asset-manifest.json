@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.31b28dd6.css",
-    "main.js": "/portfolio/static/js/main.9d1fbbba.js",
+    "main.js": "/portfolio/static/js/main.f84e7835.js",
     "static/media/Premier_Fibra.png": "/portfolio/static/media/Premier_Fibra.a90779956c795bfb8079.png",
     "static/media/Alumitemper.png": "/portfolio/static/media/Alumitemper.fb3400ae008da1521016.png",
     "static/media/Bruno_Orefice.png": "/portfolio/static/media/Bruno_Orefice.fa126dd15f416b3f4511.png",
@@ -27,10 +27,10 @@
     "static/media/CSS.svg": "/portfolio/static/media/CSS.0b22c47c86eab174ef22e81062da93d1.svg",
     "static/media/HTML.svg": "/portfolio/static/media/HTML.f71ef1e7aa598210c19f07f422de5710.svg",
     "main.31b28dd6.css.map": "/portfolio/static/css/main.31b28dd6.css.map",
-    "main.9d1fbbba.js.map": "/portfolio/static/js/main.9d1fbbba.js.map"
+    "main.f84e7835.js.map": "/portfolio/static/js/main.f84e7835.js.map"
   },
   "entrypoints": [
     "static/css/main.31b28dd6.css",
-    "static/js/main.9d1fbbba.js"
+    "static/js/main.f84e7835.js"
   ]
 }
