@@ -40,6 +40,10 @@
     flex-direction: column;
 }
 
+.projeto_div img {
+    border-radius: 10px;
+}
+
 .projeto_div:nth-child(1) {
     background-color: #0b3f9265;  
     transition: .3s;
@@ -137,15 +141,15 @@
 }
 
 .projeto_div:nth-child(9) {
-    background-color: #9fc13967;
+    background-color: #c1393967;
     transition: .3s;
     border: transparent 1px solid;
 }
 
 .projeto_div:nth-child(9):hover {
-    box-shadow: #9fc1396c 0px 7px 29px 0px;
+    box-shadow: #e6292967 0px 7px 29px 0px;
     transition: .3s;
-    border: #9fc13960 1px solid;  
+    border: #e6292967 1px solid;  
 }
 
 .projeto_div a {
