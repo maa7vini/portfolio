@@ -8,7 +8,7 @@ import Bruno_Orefice from '../../assets/Bruno_Orefice.png'
 import Sublime_Yoga from '../../assets/Sublime_Yoga.png'
 import Ls_Digital from '../../assets/Ls_Digital.png'
 import Edson_Noivas from '../../assets/Edson_Noivas.png'
-import Bill_Nova_Odessa from '../../assets/Bill_Nova_Odessa.png'
+import Plenitec_Desentupidora from '../../assets/Desentupidora_Plenitec.jpg'
 
 function Projetos(){
     return(
@@ -93,7 +93,7 @@ function Projetos(){
 
                     <img src={Edson_Noivas} alt='Imagem do Projeto'/>
 
-                    <a href='https://edsonnoivas.demodigitalnerd.com.br/' target='_blank' rel='noreferrer'>Edson Noivas</a>
+                    <a href='https://edsonnoivas.com.br/' target='_blank' rel='noreferrer'>Edson Noivas</a>
 
                     <p>Site da Edson Noivas, empresa especializada em aluguel de trajes de festa.</p>
 
@@ -103,9 +103,9 @@ function Projetos(){
 
                     <img src={Bill_Nova_Odessa} alt='Imagem do Projeto'/>
 
-                    <a href='https://billnovaodessa.com.br/' target='_blank' rel='noreferrer'>Bill Nova Odessa</a>
+                    <a href='https://plenitecdesentupidora.com.br/' target='_blank' rel='noreferrer'>Plenitec Desentupidora</a>
 
-                    <p>Site do Bill Nova Odessa, ex-prefeito de Nova Odessa.</p>
+                    <p>Site da Plenitec, empresa especializada em serviços de desentupimento.</p>
 
                 </div>
 
